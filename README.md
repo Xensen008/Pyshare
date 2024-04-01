@@ -6,6 +6,8 @@ Welcome to Pyshare - a simple yet powerful file sharing application built using 
 
 Pyshare simplifies the process of sharing files between devices within the same network, eliminating the need for complex setups or third-party services. Leveraging Python's socket programming and Tkinter library, Pyshare offers a robust solution for file transfer.
 
+![Screenshot](./pyshare%20ss.jpg)
+
 ### Features
 
 - Easy-to-use graphical interface.
