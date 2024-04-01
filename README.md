@@ -14,7 +14,7 @@ Pyshare simplifies the process of sharing files between devices within the same 
 
 ## Installation
 
-To use Pyshare, simply download and run the provided executable file. You can find the executable file [Download here](https://github.com/Xensen008/Pyshare/releases/download/v1.0.0/Pyshare.exe). Follow the instructions provided to install Pyshare on your system.
+To use Pyshare, simply download and run the provided executable file. You can find the executable file [release section](https://github.com/Xensen008/Pyshare/releases) click [Download here](https://github.com/Xensen008/Pyshare/releases/download/v1.0.0/Pyshare.exe). Follow the instructions provided to install Pyshare on your system.
 
 Alternatively, you can clone the repository and run the main file. However, using the executable file is preferred.
 
@@ -23,7 +23,7 @@ Alternatively, you can clone the repository and run the main file. However, usin
 ### Sender Instructions
 
 1. **Download and Install Pyshare**:
-   - Download the Pyshare executable file from the [Download here](https://github.com/Xensen008/Pyshare/releases/download/v1.0.0/Pyshare.exe).
+   - Download the Pyshare executable file from the [release section](https://github.com/Xensen008/Pyshare/releases )click [Download here](https://github.com/Xensen008/Pyshare/releases/download/v1.0.0/Pyshare.exe).
    - Run the executable file to install Pyshare on your system.
 
 2. **Launch Pyshare**:
@@ -42,7 +42,7 @@ Alternatively, you can clone the repository and run the main file. However, usin
 ### Receiver Instructions
 
 1. **Download and Install Pyshare**:
-   - Download the Pyshare executable file from the [Download here](https://github.com/Xensen008/Pyshare/releases/download/v1.0.0/Pyshare.exe).
+   - Download the Pyshare executable file from the [release section](https://github.com/Xensen008/Pyshare/releases )click [Download here](https://github.com/Xensen008/Pyshare/releases/download/v1.0.0/Pyshare.exe).
    - Run the executable file to install Pyshare on your system.
 
 2. **Launch Pyshare**:
