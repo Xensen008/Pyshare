@@ -59,5 +59,6 @@ Contributions to Pyshare are welcome! If you have ideas for new features, improv
 **Note**: Pyshare allows file sharing only between devices on the same network. Additionally, it is compatible with Windows operating system only.
 
 ## Made by 
-- Arnabjk008 
+- [Arnabjk008](https://bio.link/xensen008)
+
 Feel free to customize this README further to better suit your project's needs. If you have any more specific requirements or changes, please let me know!
